@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" crossorigin="anonymous"></script>
+  <script defer src="script.js"></script>
+  <title>Daily UI #009 - Music Player</title>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="content">
+      <div class="topContent">
+        <div class="menuBar">          
+          <p class="appName">Music Player</p>          
+        </div>
+        <div class="musicGroups">          
+          <div class="swiper-container slider-two">            
+            <div class="swiper-wrapper slider-two"></div>
+          </div>
+        </div>
+
+      </div>
+      <div class="middleContent">        
+        <div class="swiper-container slider-one">        
+          <div class="swiper-wrapper slider-one"></div>
+        </div>
+        
+      </div>
+      <div class="bottomContent">
+        <div class="icon bottomExpand"></div>
+        <div class="progressBar">
+          <div class="timer">
+            <span class="currentTime">00:00</span>
+            <span class="endTime"></span>
+          </div>
+          <div class="barTimer"><span class="progress"></span></div>
+        </div>
+        <div class="player">          
+          <div class="icon prev swiper-button-prev"></div>
+          <div class="btnPlay">
+            <div class="icon play"></div>
+          </div>
+          <div class="icon next swiper-button-next"></div>
+        </div>
+      </div>
+
+      <div class="albumBg">
+        <figure class="bg"><img class="imageBg" src="" alt=""></figure>
+      </div>
+
+    </div>
+    <div class="bodyBg"></div>
+  </div>
+</body>
+
+</html>

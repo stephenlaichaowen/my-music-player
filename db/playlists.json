@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Pop Music",
+    "img":
+      "https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=400"
+  },
+  {
+    "title": "On the road!",
+    "img":
+      "https://images.pexels.com/photos/3049327/pexels-photo-3049327.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=400"
+  },
+  {
+    "title": "Christmas Songs",
+    "img":
+      "https://images.pexels.com/photos/1661905/pexels-photo-1661905.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=400"
+  },
+  {
+    "title": "Rainy days",
+    "img":
+      "https://images.pexels.com/photos/216657/pexels-photo-216657.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=400"
+  }
+]

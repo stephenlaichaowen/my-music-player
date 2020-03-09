@@ -1,0 +1,59 @@
+[
+  {
+    "img": "https://www.bensound.com/bensound-img/acousticbreeze.jpg",
+    "artistName": "bensound.com",
+    "songName": "Acoustic Breeze",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-acousticbreeze.mp3",
+    "color": "#f5c63d"
+  },
+  {
+    "img": "https://www.bensound.com/bensound-img/anewbeginning.jpg",
+    "artistName": "bensound.com",
+    "songName": "A New Beginning",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-anewbeginning.mp3",
+    "color": "#afc5c3"
+  },
+  {
+    "img": "https://www.bensound.com/bensound-img/creativeminds.jpg",
+    "artistName": "bensound.com",
+    "songName": "Creative Minds",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-creativeminds.mp3",
+    "color": "#74c2dd"
+  },
+  {
+    "img": "https://www.bensound.com/bensound-img/cute.jpg",
+    "artistName": "bensound.com",
+    "songName": "Cute",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-cute.mp3",
+    "color": "#a3b8b0"
+  },
+  {
+    "img": "https://www.bensound.com/bensound-img/goinghigher.jpg",
+    "artistName": "bensound.com",
+    "songName": "Going Higher",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-goinghigher.mp3",
+    "color": "#38736d"
+  },
+  {
+    "img": "https://www.bensound.com/bensound-img/happyrock.jpg",
+    "artistName": "bensound.com",
+    "songName": "Happy Rock",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-happyrock.mp3",
+    "color": "#a4b1b2"
+  },
+
+  {
+    "img": "https://www.bensound.com/bensound-img/hey.jpg",
+    "artistName": "bensound.com",
+    "songName": "Hey",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-hey.mp3",
+    "color": "#8098ce"
+  },
+  {
+    "img": "https://www.bensound.com/bensound-img/memories.jpg",
+    "artistName": "bensound.com",
+    "songName": "Memories",
+    "song": "https://stephenlaichaowen.github.io/assets/music/bensound-memories.mp3",
+    "color": "#1a91bd"
+  }
+]
